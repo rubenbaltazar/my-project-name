@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    background-color: black;
+    align-items: center;
+}
+
+.header-title{
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.header-date{
+    flex: 1;
+    color: white;
+    font-size: 20px;
+    text-align: right;
+    margin: 10px;
+}
